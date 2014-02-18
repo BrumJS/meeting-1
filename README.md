@@ -11,3 +11,4 @@ To attend, file a pull request adding your name & any relevant info to the atten
 - Christopher Rolfe ([@ThatChrisR](https://twitter.com/ThatChrisR))
 - Nick Banford ([@Banford] (https://twitter.com/banford))
 - Nick Colley ([@nickcolley](https://twitter.com/nickcolley)) (hopefully)
+- Ben Paddock ([@_pads](https://twitter.com/_pads))
