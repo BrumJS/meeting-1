@@ -9,3 +9,4 @@ To attend, file a pull request adding your name & any relevant info to the atten
 - Stuart Langridge ([@sil](https://twitter.com/sil)) (hopefully)
 - David Maitland ([@davidmaitland](https://twitter.com/davidmaitland))
 - Christopher Rolfe ([@ThatChrisR](https://twitter.com/ThatChrisR))
+- Nick Banford ([@Banford] (https://twitter.com/banford))
