@@ -10,3 +10,4 @@ To attend, file a pull request adding your name & any relevant info to the atten
 - David Maitland ([@davidmaitland](https://twitter.com/davidmaitland))
 - Christopher Rolfe ([@ThatChrisR](https://twitter.com/ThatChrisR))
 - Nick Banford ([@Banford] (https://twitter.com/banford))
+- Nick Colley ([@nickcolley](https://twitter.com/nickcolley)) (hopefully)
