@@ -7,3 +7,4 @@ To attend, file a pull request adding your name & any relevant info to the atten
 
 - Jack Wearden ([@jackweirdy](https://twitter.com/JackWeirdy))
 - Stuart Langridge ([@sil](https://twitter.com/sil)) (hopefully)
+- David Maitland ([@davidmaitland](https://twitter.com/davidmaitland))
