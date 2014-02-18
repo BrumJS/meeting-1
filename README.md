@@ -6,3 +6,4 @@ Meeting 1
 To attend, file a pull request adding your name & any relevant info to the attendee list below:
 
 - Jack Wearden ([@jackweirdy](https://twitter.com/JackWeirdy))
+- David Maitland ([@davidmaitland](https://twitter.com/davidmaitland))
