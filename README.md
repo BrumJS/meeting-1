@@ -12,4 +12,5 @@ To attend, file a pull request adding your name & any relevant info to the atten
 - Nick Banford ([@Banford] (https://twitter.com/banford))
 - Nick Colley ([@nickcolley](https://twitter.com/nickcolley)) (hopefully)
 - Ben Paddock ([@_pads](https://twitter.com/_pads))
-- Omar Qureshi ([@omarqureshi](https://twitter.com/omarqureshi)
+- Omar Qureshi ([@omarqureshi](https://twitter.com/omarqureshi))
+- Matt Ellis ([@citizenmatt](https://twitter.com/citizenmatt))
